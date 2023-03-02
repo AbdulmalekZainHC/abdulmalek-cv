@@ -91,25 +91,32 @@ experiences:
           using React and React Native. Alongside developing the backend services for these projects using NodeJS, Meteor.js and MongoDB 
 
       - role: React Developer
-        time: 2020 - 2021
+        time: June 2020 - June 2021
         company: Al Rowad 4 Tech, Damascus
         details: |
           Design and develop a web remote learning application for the UAE market. Using tech stack of NodeJs + React and Redux state management.
 
       - role: IT Admin + Fullstack Javascript Developer
-        time: 2018 - 2020
+        time: September 2018 - May 2020
         company: United Cement Company, Damascus
         details: |
           Managing All aspects of the IR Departments at UCG and offering IT support to all the 
           employees and managers. Performing network maintenance tasks, and Developing internal management software using React and NodeJs
       
       - role: Angular/React Developer
-        time: 2016 - 2018
+        time: March 2016 - August 2018
         company: EBLA Computer Consultancy, Kuwait
         details: |
           Working in conjunction with Kuwait Oil Company and Kuwait National Petrol Company to develop
           management software using Angular and Filenet to digitize and improve the workflows of employees
           on a national scale.
+
+      - role: Freelancing React Developer
+        time: January 2015 - Ongoing
+        company: Freelance
+        details: |
+          As a specialist in React development, I offer exceptional freelance service for building and maintaining
+          React websites and applications. Over the years I've helped build many products for various companies and markets, in many markets.
 
 skills:
     title: Skills &amp; Proficiency
