@@ -46,8 +46,8 @@ career-profile:
     title: About Me
     summary: |
       Software Developer with several years of experience in creating dynamic websites
-      and applications. Strong background in HTML, JavaScript and Node.js. With a strong sense of aesthetics and problem solving skills, Iam able to create the best web experiences. Passionate about learning new technologies and building innovative
-      solutions in the field. With a good team spirit, I love to collaborate on challenging projects to bring great products to our users
+      and applications. Strong background in HTML, JavaScript and Node.js. With a strong sense of aesthetics and problem solving skills, I am able to create the best web experiences. Passionate about learning new technologies and building innovative
+      solutions in the field. With a good team spirit, I love to collaborate on challenging projects to bring great products to the end user.
 education:
     title: Education
     info:
@@ -63,7 +63,7 @@ experiences:
     title: Experiences
     info:
       - role: Senior Frontend Engineer
-        time: April 2022 - April 2023
+        time: April 2022 - Current
         company: Heycar - Berlin 
         details: |
           Working in a large interconnected team, I was able to excel in developing server side rendered React-based web app 
