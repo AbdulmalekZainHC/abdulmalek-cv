@@ -79,10 +79,13 @@ experiences:
             - CircleCI (CI/CD)
             - Testing with Jest, React Native Testing Library
             - A/B Testing
-      - role: Full Stack JavaScript Developer (React Native)
+      - role: Senior React Native Engineer (Fullstack)
         time: July 2021 - April 2022
         company: Medicus.Ai, Vienna
         details: |
+          Frontend: React Native.
+          Backend: NodeJs, Meteor.js, MongoDB
+          
           Developing mobile applications for various medically related products such as (Smart Reports and Smart Wellbeing)
           using React Native. Alongside developing the backend services for these projects using NodeJS, Meteor.js and MongoDB 
 
