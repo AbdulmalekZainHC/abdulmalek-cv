@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Abdulmalek Zain
-    tagline: React Native Engineer
+    tagline: Frontend Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,7 +45,9 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-        I'm a passionate React Native Mobile Developer with a strong front-end background. I excel in delivering high-quality, cross-platform mobile apps and thrive in collaborative, innovative environments. My clean code, attention to detail, and commitment to staying current in mobile development make me an asset to any team.
+      Software Developer with several years of experience in creating dynamic websites
+      and applications. Strong background in HTML, JavaScript and Node.js. With a strong sense of aesthetics and problem solving skills, I am able to create the best web experiences. Passionate about learning new technologies and building innovative
+      solutions in the field. With a good team spirit, I love to collaborate on challenging projects to bring great products to the end user.
 education:
     title: Education
     info:
@@ -60,15 +62,41 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Senior React Native Engineer
-        time: April 2022 - Current
+      - role: Senior Frontend Engineer
+        time: May 2023 - Current
+        company: CNS - Dubai
+        details: |
+          Led the development of cutting-edge web applications as a Senior Fullstack Engineer, specializing in React, Remix, and Nestjs. 
+          Contributed to the entire software development lifecycle, from conceptualization to deployment. Demonstrated expertise in crafting scalable and maintainable code, 
+          collaborating with cross-functional teams to deliver high-quality solutions that meet and exceed client expectations.
+          Worked with many tools & technologies that enabled us to exceed expectations in short durations of time.
+          Such as:
+            - React
+            - Remix.JS
+            - Next.JS
+            - Nest.JS
+            - Flutter
+            - React Native
+            - PostgreSQL
+            - typeorm
+            - Tailwind css
+            - Typescript
+            - Jira Suite
+            - Github
+            - Cloudflare Pages
+            - AWS, S3 Storage
+            - App Store Delivery With fastlane
+      - role: Senior Frontend Engineer
+        time: April 2022 - May 2023
         company: Heycar - Berlin 
         details: |
-          In my role as a React Native Engineer, I played a pivotal role in developing cross-platform mobile applications. Leveraging my expertise in React Native, I contributed to the creation of high-performance, user-friendly apps that exceeded client expectations. I collaborated with a diverse team, embracing challenges and staying at the forefront of mobile development trends. 
-          Using tools Such as:
-            - React Native
-            - Redux
-            - React Native Elements
+          Working in a large interconnected team, I was able to excel in developing server side rendered React-based web app 
+          that was the center of the commerce department at heycar. In my time there I was able to implement new product ideas
+          that helped the company improve in sales, customer satisfaction and interaction.
+          Worked with many tools & technologies that enabled us to exceed expectations in short durations of time.
+          Such as:
+            - React
+            - Next.JS
             - Lerna
             - Eslint
             - TypeScript
@@ -77,40 +105,37 @@ experiences:
             - Jira Suite
             - Github
             - CircleCI (CI/CD)
-            - Testing with Jest, React Native Testing Library
+            - Testing with Jest
             - A/B Testing
-      - role: Senior React Native Engineer (Fullstack)
+      - role: Full Stack JavaScript Developer
         time: July 2021 - April 2022
         company: Medicus.Ai, Vienna
         details: |
-          Frontend: React Native.
-          Backend: NodeJs, Meteor.js, MongoDB
-          
           Developing mobile applications for various medically related products such as (Smart Reports and Smart Wellbeing)
-          using React Native. Alongside developing the backend services for these projects using NodeJS, Meteor.js and MongoDB 
+          using React and React Native. Alongside developing the backend services for these projects using NodeJS, Meteor.js and MongoDB 
 
-      - role: React Native Developer
+      - role: React Developer
         time: June 2020 - June 2021
         company: Al Rowad 4 Tech, Damascus
         details: |
-          Design and develop a mobile learning application for the UAE market. Using tech stack of NodeJs + React and Redux state management.
+          Design and develop a web remote learning application for the UAE market. Using tech stack of NodeJs + React and Redux state management.
 
       - role: IT Admin + Fullstack Javascript Developer
         time: September 2018 - May 2020
         company: United Cement Company, Damascus
         details: |
           Managing All aspects of the IR Departments at UCG and offering IT support to all the 
-          employees and managers. Performing network maintenance tasks, and Developing internal management software using React, React Native and NodeJs
+          employees and managers. Performing network maintenance tasks, and Developing internal management software using React and NodeJs
       
-      - role: Angular/React Native Developer
+      - role: Angular/React Developer
         time: March 2016 - August 2018
         company: EBLA Computer Consultancy, Kuwait
         details: |
           Working in conjunction with Kuwait Oil Company and Kuwait National Petrol Company to develop
           management software using Angular and Filenet to digitize and improve the workflows of employees
-          on a national scale. Along with companion mobile apps using React Native.
+          on a national scale.
 
-      - role: Freelancing React/React Native Developer
+      - role: Freelancing React Developer
         time: January 2015 - Ongoing
         company: Freelance
         details: |
@@ -121,26 +146,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: React Native
-        level: 100%
-
       - name: React & Redux
         level: 100%
 
       - name: Typescript & NextJs
         level: 100%
 
-      - name: Angular
-        level: 85%
-
       - name: HTML5 & CSS
         level: 100%
 
-      - name: Ionic
+      - name: Ionic & React Native
         level: 100%
 
+      - name: Angular
+        level: 85%
+
       - name: Figma & Photoshop
-        level: 98%
+        level: 70%
 
 footer: >
     
