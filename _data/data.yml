@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Abdulmalek Zain
-    tagline: Frontend Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Rukaia Al Hamdan
+    tagline: Psychology Student
+    # avatar: ruki.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: lukezain@gmail.com
-    phone: 00971585006933
-    timezone: Asia/Dubai Timezone
-    location: Dubai
-    citizenship: Syria
+    email: rukaiaalhamdan@gmail.com
+    phone: +60183214101
+    # timezone: Asia/Malaysia Timezone
+    location: Cheras, Kuala Lumpur
+    citizenship: Iraq
     # website: blog.webjeda.com #do not add http://
-    linkedin: abdulmalek-zain
-    github: AbdulmalekZainHC
+    linkedin: rukaia-al-hamdan
+    # github: AbdulmalekZainHC
 
     languages:
       title: Languages
@@ -30,139 +30,92 @@ sidebar:
         - idiom: Arabic
           level: Native
 
+        - idiom: Malay
+          level: Basic
+
     interests:
-      title: Interests
+      title: Skills
       info:
-        - item: Electronics
+        - item: Effective communication
           link:
 
-        - item: Programming
+        - item: Critical thinking
           link:
 
-        - item: Music
+        - item: Adaptability
+          link:
+
+        - item: Research
+          link:
+
+        - item: Microsoft Softwares
           link:
 
 career-profile:
     title: About Me
     summary: |
-      Software Developer with several years of experience in creating dynamic websites
-      and applications. Strong background in HTML, JavaScript and Node.js. With a strong sense of aesthetics and problem solving skills, I am able to create the best web experiences. Passionate about learning new technologies and building innovative
-      solutions in the field. With a good team spirit, I love to collaborate on challenging projects to bring great products to the end user.
+      Highly motivated and ambitious psychology graduate with a strong passion for understanding human behavior. Currently pursuing a bachelor's degree, I am dedicated to contributing to the field of mental health. My academic background and practical experiences have provided me with a solid foundation in research methodologies, data analysis, and counseling techniques. I excel at applying psychological theories to real-life situations and am committed to finding innovative solutions to complex challenges in the field.
 education:
     title: Education
     info:
-      - degree: BSc in Information Technology
-        university: Arab Open University (Kuwait)
-        time: 2011 - 2016
+      - degree: Diploma in Psychology
+        university: UCSI College, Kuala Lumpur
+        time: Jan 2022 - Jan 2024
+        cgpa: 3.72
+
+      - degree: Australian Matriculation (AUSMAT)
+        university: Methodist College, Kuala Lumpur
+        time: Jan 2021 - Nov 2021
+
+      - degree: International General Certificate of Secondary Education (IGCSE)
+        university: AIS, Kuala Lumpur
+        time: Sep 2019 - Jun 2020
         
-      - degree: Angular/Filenet Training
-        university: HASHECM - Bengaluru
-        time: 2016 - 2017
-        
+
 experiences:
     title: Experiences
     info:
-      - role: Senior Frontend Engineer
-        time: May 2023 - Current
-        company: CNS - Dubai
+      - role: Intern
+        time: Sept 2023 - Dec 2023
+        company: Malaysian Mental Health Association (MMHA), Petaling Jaya
         details: |
-          Led the development of cutting-edge web applications as a Senior Fullstack Engineer, specializing in React, Remix, and Nestjs. 
-          Contributed to the entire software development lifecycle, from conceptualization to deployment. Demonstrated expertise in crafting scalable and maintainable code, 
-          collaborating with cross-functional teams to deliver high-quality solutions that meet and exceed client expectations.
-          Worked with many tools & technologies that enabled us to exceed expectations in short durations of time.
-          Such as:
-            - React
-            - Remix.JS
-            - Next.JS
-            - Nest.JS
-            - Flutter
-            - React Native
-            - PostgreSQL
-            - typeorm
-            - Tailwind css
-            - Typescript
-            - Jira Suite
-            - Github
-            - Cloudflare Pages
-            - AWS, S3 Storage
-            - App Store Delivery With fastlane
-      - role: Senior Frontend Engineer
-        time: April 2022 - May 2023
-        company: Heycar - Berlin 
+          - Co-facilitated group therapy sessions at a rehabilitation center, fostering improved group dynamics and client engagement while gaining valuable insights into effective therapeutic practices.
+          - Strengthened analytical skills by regularly completing SWOT and incident reports, which provided a comprehensive view of client progress and contributed to more informed decision-making processes.
+          - Applied theoretical knowledge in practical settings by conducting Biopsychosocial (BPSY) assessments, honing skills in client evaluation and treatment planning.
+          - Developed strong organizational and communication skills through handling helpline inquiries, managing appointments, and maintaining social media accounts, ensuring efficient and effective client interactions.
+          - Broadened understanding of mental health support by attending and successfully completing the Mental Health First Aid training program, gaining essential skills to assist individuals facing mental health crises.
+
+      - role: Kindergarten Teacher
+        time: Nov 2022 - Jan 2023
+        company: CIC Where Leaders Are Born (International) @ Abedeen Academy, Selangor
         details: |
-          Working in a large interconnected team, I was able to excel in developing server side rendered React-based web app 
-          that was the center of the commerce department at heycar. In my time there I was able to implement new product ideas
-          that helped the company improve in sales, customer satisfaction and interaction.
-          Worked with many tools & technologies that enabled us to exceed expectations in short durations of time.
-          Such as:
-            - React
-            - Next.JS
-            - Lerna
-            - Eslint
-            - TypeScript
-            - Styled Components
-            - Global Design System
-            - Jira Suite
-            - Github
-            - CircleCI (CI/CD)
-            - Testing with Jest
-            - A/B Testing
-      - role: Full Stack JavaScript Developer
-        time: July 2021 - April 2022
-        company: Medicus.Ai, Vienna
+          - Planned and implemented lesson plans for kindergarten students
+          - Created a nurturing classroom that promoted positive learning
+          - Provided individualized attention to meet the needs of each child
+          - Worked with other teachers to coordinate school events
+
+
+extras:
+    title: Extracurricular activities
+    info:
+      - role: Student Council Committee Member 
+        time: Mar 2023 - Mar 2024
+        company: UCSI College, Kuala Lumpur
         details: |
-          Developing mobile applications for various medically related products such as (Smart Reports and Smart Wellbeing)
-          using React and React Native. Alongside developing the backend services for these projects using NodeJS, Meteor.js and MongoDB 
-
-      - role: React Developer
-        time: June 2020 - June 2021
-        company: Al Rowad 4 Tech, Damascus
+          - Collaborated with fellow committee members to plan and organize college events and activities
+          - Represented the student body in decision-making processes and served as a voice for student concerns
+     
+      - role: Volunteer support person 
+        time: Mar 2022
+        company: S.I Home Shelter, Selangor
         details: |
-          Design and develop a web remote learning application for the UAE market. Using tech stack of NodeJs + React and Redux state management.
-
-      - role: IT Admin + Fullstack Javascript Developer
-        time: September 2018 - May 2020
-        company: United Cement Company, Damascus
+          - Assisted in cleaning and maintaining animal enclosures and the shelter environment
+     
+      - role: Volunteer program manager 
+        time: 2020 - 2021
+        company: AIS Community Service Program, Kuala Lumpur
         details: |
-          Managing All aspects of the IR Departments at UCG and offering IT support to all the 
-          employees and managers. Performing network maintenance tasks, and Developing internal management software using React and NodeJs
-      
-      - role: Angular/React Developer
-        time: March 2016 - August 2018
-        company: EBLA Computer Consultancy, Kuwait
-        details: |
-          Working in conjunction with Kuwait Oil Company and Kuwait National Petrol Company to develop
-          management software using Angular and Filenet to digitize and improve the workflows of employees
-          on a national scale.
-
-      - role: Freelancing React Developer
-        time: January 2015 - Ongoing
-        company: Freelance
-        details: |
-          As a specialist in React development, I offer exceptional freelance service for building and maintaining
-          React websites and applications. Over the years I've helped build many products for various companies and markets, in many markets.
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: React & Redux
-        level: 100%
-
-      - name: Typescript & NextJs
-        level: 100%
-
-      - name: HTML5 & CSS
-        level: 100%
-
-      - name: Ionic & React Native
-        level: 100%
-
-      - name: Angular
-        level: 85%
-
-      - name: Figma & Photoshop
-        level: 70%
+          - Volunteered weekly hours of community service accordingly at refugee centers, old folk's homes and environmental campaigns
 
 footer: >
     
